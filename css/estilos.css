@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Elsie+Swash+Caps:wght@400;900&family=Karla:ital,wght@0,200..800;1,200..800&family=Mate:ital@0;1&family=Noto+Sans:ital,wdth,wght@0,62.5..100,100..900;1,62.5..100,100..900&display=swap'); 
+
+
+body{ 
+    background-color: #f5f5f5; 
+    font-family: "Karla"; 
+    font-size: 20px; 
+
+
+}
+
+
+h1 {
+
+    text-align: center;
+    color:#B5838D;
+    font-weight: 800;
+    font-size:50px;
+    font-family: "Karla";
+
+
+    
+
+
+}
+
+h2 {
+
+    text-align: center;
+    color: #B5838D;
+    font-weight: 800; 
+}
+
+
+
+p{
+    
+    text-align: justify;
+    text-size-adjust: 20px;
+  
+    
+
+
+}
+
+
+h3 {
+
+    text-align: center;
+    color: rgb(165, 144, 96);
+    font-weight: 500;
+    font-size: 20px;  
+}
+
+
+
+img {
+
+    width: 40%;
+    margin:auto;
+    display: block;
+    border-radius:40px;
+    
+    }
+
+    h1,
+    h2,
+    ul {
+    
+        
+        font-family: "Karla";
+    
+    }
+    
+h4{ 
+    text-decoration: underline;
+
+}
+
+
+section {
+
+    font-size: 15px;
+   
+    }
+
+    a {
+
+    
+        color: rgb(175, 175, 175);
+        
+    
+    }
+    
+    
+    #vinculo {
+    
+        color: #B5838D;
+    }
+    
+    #vinculo:hover {
+    
+        
+        font-weight: 700;
+    
+    }
+    
+    a:hover {
+    
+        text-decoration:rgb(165, 144, 96) solid underline;
+        color: #B5838D;
+    }
+
+
+
+
+
+#miColor {
+
+    background-color:rgba(165, 144, 96, 0.437);
+    color: #B5838D;
+    font-weight: 700;
+
+
+}
+
+.subrayado {
+
+    text-decoration:underline;
+  
+
+}
+
+em1
+
+{color:#B5838D;};
+
+    
+
